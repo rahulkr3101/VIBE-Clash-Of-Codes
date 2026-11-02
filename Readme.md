@@ -3,15 +3,6 @@
 
 ### Demo Website Link - https://toteja-vibe-find-your-match-main-c9dio0.streamlit.app/
 
-## TEAM NAME- BYE
-
-## TEAM MEMBERS-
-
-* Rishit Toteja
-* Ishita Jain
-* Abhisht Dixit
-* Gunraj Singh
-
 
 ## INTRODUCTION-
 
